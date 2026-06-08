@@ -1,0 +1,14 @@
+---
+:id: 370575057
+:submitters:
+- :name: David Alexander Folger
+  :email: dfolger6@gatech.edu
+- :name: Devin Kelly Fromond
+  :email: dfromond3@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-11-17 22:12:08.644602000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-11-17 14:12:08.644602000 Z
+:status: processed
+:score: 82.5

@@ -1,0 +1,80 @@
+commit ad182e8b461140f1b889b53f0ac978e457c259c6
+Author: Dfromond <devinatork7@gmail.com>
+Date:   Wed Nov 12 17:54:47 2025 -0500
+
+    init
+
+commit 5665cfc46d69ede1e682708aabdfe6de6f019cbd
+Author: Ved Thiru <47309279+PerpetualCreativity@users.noreply.github.com>
+Date:   Fri Jan 10 14:34:19 2025 -0500
+
+    Fix Windows line endings issue
+    
+    This commit should fix issues caused by students cloning this repo from outside
+    of WSL (which leads to line ending conversion issues).
+
+commit 1321dd84be8a34d428469e67ecac3df1a7cc3db1
+Author: Elton Pinto <eltonp3103@gmail.com>
+Date:   Thu Jan 9 12:48:42 2025 -0500
+
+    make image point to cs3210 org
+
+commit e624277999afac8da6ef4d4027693e5201260021
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Fri Apr 5 13:12:45 2024 -0400
+
+    fixes for compiling locally
+
+commit 675d3aa04d2cb2d19c29598e6bb988d66405d7d2
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Thu Mar 28 11:12:53 2024 -0400
+
+    small fixes
+
+commit e4ffdb9b3a13c6aa06d362479e418936e8445304
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Thu Mar 28 11:06:44 2024 -0400
+
+    simplify writeup, remove sudo
+
+commit c65e644d511a08a739deea91dc07dc5905308661
+Author: Siddharth <ssundaram38@gatech.edu>
+Date:   Tue Mar 26 00:11:30 2024 -0400
+
+    feat: edited README
+
+commit f334f9bd748a4fc02774a85e948991c4b816e097
+Author: Siddharth <ssundaram38@gatech.edu>
+Date:   Sun Mar 24 16:43:45 2024 -0400
+
+    feat: removed workloads and changed README
+
+commit 6f2e3c0e4e44f8425f080a5847154f7b79409794
+Author: Siddharth <ssundaram38@gatech.edu>
+Date:   Sun Mar 24 15:54:31 2024 -0400
+
+    extension
+
+commit 3578edb01f39f677b2b3c1c91b1725990f007c16
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Thu Nov 9 10:34:43 2023 -0500
+
+    adam's updates to readme
+
+commit 5baecfa1cfa7a6915728dea1bb92908e4570f4e9
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Wed Nov 8 17:30:31 2023 -0500
+
+    update for fall 2023
+
+commit c45ed906be5d7bcfd4eda96d752a3ba50c6d74a9
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Sat Apr 9 15:05:35 2022 -0400
+
+    Update lab4 for Spring 2022 (pt4, test case breakdown)
+
+commit c933e8d353e3f62645761102ba617d2b11ed39f3
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Wed Apr 6 15:30:46 2022 -0400
+
+    Update lab4 for Spring 2022 (pt3)

@@ -1,0 +1,288 @@
+commit bbad9a409cb30dc690f88c28bdd9201b784330f6
+Author: Ved Thiru <47309279+PerpetualCreativity@users.noreply.github.com>
+Date:   Wed Aug 27 09:21:58 2025 -0400
+
+    remove old wording about max files in directory
+
+commit 0b45540f12d108c2e5ab3add4a1c9e187d42be28
+Author: htang0641 <96557243+htang0641@users.noreply.github.com>
+Date:   Sun Aug 24 19:40:01 2025 -0400
+
+    Explicitly require error handling in student code
+
+commit 4eb521a25907c0e2b7a1ae5e52bba4a08bb6ed7b
+Author: Rohan Bafna <rbafna3@gatech.edu>
+Date:   Fri Aug 22 09:29:55 2025 -0400
+
+    Update repo link in README to the fall2025 repo
+
+commit 5c298c0f879bd5c84bbb27051ba03e61a3840406
+Author: Rohan Bafna <rbafna3@gatech.edu>
+Date:   Tue Aug 19 21:28:05 2025 -0400
+
+    Reword fall 2025 changes
+
+commit de550a1be39098b36c967ee395f8d07ce4e9a005
+Author: Rohan Bafna <rbafna3@gatech.edu>
+Date:   Tue Aug 19 21:28:05 2025 -0400
+
+    Fall 2025 changes
+    
+    Change one of the extra credit assignments to something more
+    manageable.
+
+commit d31411696528edffae42c5bb40f98eea00619aed
+Author: Adam Hall <ach@gatech.edu>
+Date:   Sat Jan 11 15:48:01 2025 -0500
+
+    Fix formatting in README
+
+commit 939c5dd42836ebb5deb6ba4eaccd91885ff07306
+Author: Ved Thiru <47309279+PerpetualCreativity@users.noreply.github.com>
+Date:   Fri Jan 10 14:34:19 2025 -0500
+
+    Fix Windows line endings issue
+    
+    This commit should fix issues caused by students cloning this repo from outside
+    of WSL (which leads to line ending conversion issues).
+
+commit 19b41c253a5b0e025da5385f8af034ce623a5050
+Author: sukritk <ksukrit2001@gmail.com>
+Date:   Fri Jan 10 00:18:41 2025 -0500
+
+    lab 0 update
+
+commit dc16153fed1f123c42a0290933dd5695d26d927f
+Author: Elton Pinto <eltonp3103@gmail.com>
+Date:   Thu Jan 9 12:43:23 2025 -0500
+
+    make image point to cs3210 org
+
+commit 65a3307746c731d9fe757ee52c4e0d6dacd60b85
+Author: Kdouk, Joao Victor Cardoso <jkdouk3@gatech.edu>
+Date:   Thu Jan 18 15:22:23 2024 -0500
+
+    Update README.md
+
+commit 35d77bb53fb7537aa2ce16113d8250aee5d495ef
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Wed Jan 10 11:44:38 2024 -0500
+
+    update readme
+
+commit caad1412b980ae322d626ec3738e7145f04ceb4b
+Author: Anand Iyer <anand.iyer@gatech.edu>
+Date:   Fri Aug 25 15:49:15 2023 -0400
+
+    Update README.md
+
+commit 3bb203803ac41d9dd80030816a2cca45da71de5a
+Author: Colten Webb <coltenwebb@gmail.com>
+Date:   Wed Aug 23 20:50:09 2023 -0400
+
+    update readme
+
+commit 98de0575362d99e4f865106f2bc55151871ad69e
+Author: Snigdha04 <snigdha0410@gmail.com>
+Date:   Mon Sep 5 12:39:13 2022 -0400
+
+    Update README.md
+
+commit fb2b7539d70e0c85c11cbaf24063d1c6b1e14b31
+Author: Pinto, Elton Leander <eltonp3103@gatech.edu>
+Date:   Thu Jan 6 22:39:25 2022 -0500
+
+    Update README.md
+
+commit 68df17b14b224dd4a2980b25a3aab72d7e1a54f4
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Thu Sep 2 13:42:38 2021 -0400
+
+    Fix missing quotes bug in Docker script
+
+commit af8ca4eb2c84f5c15ba3661bb8ec7fc0a4aee406
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Thu Sep 2 13:23:29 2021 -0400
+
+    Update Q1 in README
+
+commit 7e6f91bae540a610956e758baf5e4522a33e6ec5
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Tue Aug 31 16:11:16 2021 -0400
+
+    Add Windows batch scripts
+
+commit ea16720a453cc30c17d8bf2e29039045d6a21450
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Sat Aug 28 00:10:38 2021 -0400
+
+    Update Q1 to match Canvas
+
+commit a1e6545ace3c271812a4640028544d63d7da5175
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Sat Aug 28 00:03:03 2021 -0400
+
+    Update SSH url
+
+commit 61b01e9469ec5ec7e3e3e1a4746c510b6b6c99a4
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Fri Aug 27 23:47:49 2021 -0400
+
+    Update README
+
+commit 2902e4a498b85e5ddadea8712b4974b50000ac98
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Fri Aug 27 23:42:55 2021 -0400
+
+    Update lab 0 instructions & scripts
+
+commit fc1ed7e93718d0b715f7848dfd425259b65c39e2
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Mon Jul 19 06:44:26 2021 -0500
+
+    Added script to run Docker environment
+
+commit 3df9c2b1bc1e5b117b8e5cea9bcd7dee8cad9bcc
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Tue Jan 19 12:05:06 2021 -0500
+
+    Update lab0.md
+
+commit 2320466b39be6a3796798d1f1eb42a7aaef1a43e
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Sat Dec 19 15:34:55 2020 -0500
+
+    Update autograder_instructions.md
+    
+    Updated autograder instructions for 2021
+
+commit efde86bb04bf0121aac8b666639a445b2c3bc31a
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Fri Dec 18 12:01:53 2020 -0500
+
+    Update lab0.md
+    
+    Updated with better qemu instructions and fall2020 to spring2021
+
+commit 5fed4468fe896edd50f263b6fce2ef40d2e1cb6c
+Merge: 132862e a9c0ad8
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Mon Sep 7 11:58:34 2020 -0400
+
+    Merge branch 'main' of github.gatech.edu:cs3210-fall20/xv6-public into main
+
+commit 132862e9adef8cebe7c11a4b0dcc6add71d3620f
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Mon Sep 7 11:58:26 2020 -0400
+
+    Fix to mkfs.c strncpy
+
+commit a9c0ad88e1658f8c38ddef63c59af59991d0a1ef
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Sun Sep 6 13:46:40 2020 -0400
+
+    Update autograder_instructions.md
+
+commit 40d376e44b7da4b2376e43590eeb29f4b8de0e4c
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Sun Sep 6 13:46:03 2020 -0400
+
+    Added Group description to autograder page.
+
+commit b915ab7df45681724b8fead9f625d573277284a8
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Tue Sep 1 16:01:25 2020 -0400
+
+    Update autograder_instructions.md
+
+commit 227141acea9b9fd342af17796794f09c76945560
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Tue Sep 1 16:00:57 2020 -0400
+
+    Update autograder_instructions.md
+
+commit a090aaaaa42ab7897ae97ef292727c5089119de1
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Mon Aug 31 22:56:42 2020 -0400
+
+    Update autograder_instructions.md
+
+commit df2f4451300b8cb7c07de835dcbf0ae6912b068f
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Mon Aug 31 22:56:21 2020 -0400
+
+    Update autograder_instructions.md
+
+commit 0313056bd6ffe912354da4e4a1d91dfbeb0fa970
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Thu Aug 20 15:53:51 2020 -0400
+
+    Update lab0.md
+
+commit 5243f3adc5506297d33898ccd565e861c37a44b8
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Sun Aug 16 01:43:07 2020 -0400
+
+    Update autograder_instructions.md
+
+commit 2edcc1d27a93e598305ed03bf875177fe1f7c9d6
+Merge: c0706c5 0d56012
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Mon Jul 27 09:12:31 2020 -0400
+
+    Merge pull request #1 from cs3210-fall20/pchawla8/autograder-instructions
+    
+    Typo fixes in autograder_instructions.md
+
+commit c0706c5082255755ad2166939584fb500f8c6379
+Merge: f4bd6cc b2bbf11
+Author: Devecsery, David <ddevec@gatech.edu>
+Date:   Mon Jul 27 09:10:24 2020 -0400
+
+    Merge pull request #2 from cs3210-fall20/pchawla8/lab0-instructions
+    
+    Typo fixes in lab0.md
+
+commit b2bbf110cc5592452d535079e4459761b40e5ddc
+Author: Chawla, Prabhav <pc_1998@gatech.edu>
+Date:   Mon Jul 27 00:50:00 2020 -0700
+
+    Typo fixes in lab0.md
+    
+    Also removed some extra spaces from shell instructions
+
+commit 0d56012f1127763b6c52920d920d1b09cdb341ca
+Author: Chawla, Prabhav <pc_1998@gatech.edu>
+Date:   Mon Jul 27 00:32:04 2020 -0700
+
+    Typo fixes in autograder_instructions.md
+
+commit f4bd6cc97daae1ebcd80196686a497da76ecf94a
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Tue Jun 23 14:41:21 2020 -0400
+
+    Added autograder instructions
+
+commit f29d0df5c7df14caa69d7f83ce67fa8f6cc1bea4
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Tue Jun 16 15:31:04 2020 -0400
+
+    Updated qemu-xv6 to actually take a memory arg
+
+commit 468dc16a6626c2c77b8f8f3e8361ec4f7954e2ce
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Tue Jun 16 15:25:40 2020 -0400
+
+    Updated lab0.md
+
+commit dad9b2e222ca2a8f1d95676997ea7c738c0f27a3
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Wed Jun 10 15:33:52 2020 -0400
+
+    Updated lab0
+
+commit 8dea4a7ab0694d29210599c5a54f282da946b315
+Author: David Devecsery <ddevec@gatech.edu>
+Date:   Wed Jun 10 15:25:14 2020 -0400
+
+    Added lab0 instructions to master

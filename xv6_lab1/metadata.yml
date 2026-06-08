@@ -1,0 +1,12 @@
+---
+:id: 342683299
+:submitters:
+- :name: Devin Kelly Fromond
+  :email: dfromond3@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-08-28 22:10:34.720423000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-08-28 15:10:34.720423000 Z
+:status: processed
+:score: 3.5
