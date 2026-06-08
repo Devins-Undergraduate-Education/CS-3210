@@ -1,0 +1,20 @@
+{
+	"files": [
+	  "CMakeLists.txt",
+    "login_design.md"
+	],
+	"folders": [
+	  "bootblock",
+	  "include",
+	  "kernel",
+	  "tools",
+	  "user"
+	],
+	"base_commit": "8ab9302084ffe945672a35096ddfd7e70169a6ae",
+	"git_history": true,
+	"ignore": [
+	  ".DS_Store",
+	  "__pycache__"
+	]
+}
+      
